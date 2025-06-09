@@ -12,7 +12,7 @@ const page = () => {
         description: "",
         category: "Startup",
         author: "Sanjaya Prasad",
-        authorImg: "/authour_img"
+        authorImg: "/author_img.png"
     })
 
     const onChangeHandler = (e) => {
